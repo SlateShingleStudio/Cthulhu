@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\Rhinoceros 5.0 WIP\System\Rhino4.exe</StartProgram>
+    <StartArguments>/dotnetversion=4 /nosplash  /runscript="ReadCommandFile I:\Programming\Projects\Cthulhu\Rhino\Startup.txt"</StartArguments>
+    <StartWorkingDirectory>I:\Programming\Projects\Cthulhu\Rhino\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Bruno|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\Rhinoceros 5.0 WIP\System\Rhino4.exe</StartProgram>
+    <StartArguments>/dotnetversion=3.5 /runscript="ReadCommandFile Startup.txt"</StartArguments>
+    <StartWorkingDirectory>I:\Programming\Projects\Cthulhu_GH\Rhino\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>
