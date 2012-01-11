@@ -1,6 +1,0 @@
-I:\Programming\Libs\Cthulhu\bin\Bruno\CthulhuLib.dll
-I:\Programming\Libs\Cthulhu\bin\Bruno\CthulhuLib.pdb
-I:\Programming\Libs\Cthulhu\bin\Bruno\RhinoCommon.dll
-I:\Programming\Libs\Cthulhu\obj\Bruno\ResolveAssemblyReference.cache
-I:\Programming\Libs\Cthulhu\obj\Bruno\CthulhuLib.dll
-I:\Programming\Libs\Cthulhu\obj\Bruno\CthulhuLib.pdb
